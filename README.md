@@ -1,5 +1,4 @@
-# PROJECTNAME
-
+# Endpoint Analysis
 ## Objective
 [Brief Objective - Remove this afterwards]
 
